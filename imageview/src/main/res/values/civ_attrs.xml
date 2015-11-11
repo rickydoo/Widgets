@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomImageView">
+        <attr name="civType">
+            <enum name="square" value="1"/>
+            <enum name="circle" value="2"/>
+            <enum name="withText" value="3"/>
+        </attr>
+        <attr name="civBorderColor" format="color"/>
+        <attr name="civBackground" format="color"/>
+        <attr name="civBorderWidth" format="dimension"/>
+        <attr name="civRadius" format="dimension"/>
+        <attr name="civTextContent" format="string"/>
+    </declare-styleable>
+</resources>
