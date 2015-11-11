@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Widgets.iml" filepath="$PROJECT_DIR$/Widgets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WidgetsLib.iml" filepath="$PROJECT_DIR$/WidgetsLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/imageview/imageview.iml" filepath="$PROJECT_DIR$/imageview/imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageview/widgets.iml" filepath="$PROJECT_DIR$/imageview/widgets.iml" />
     </modules>
   </component>
 </project>
